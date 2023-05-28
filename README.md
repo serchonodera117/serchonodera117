@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sergio Garcia Michel</h1>
 <h3 align="center">A passionate Software Engineer from México</h3>
 <img  alt="Gisselle_protagonist of my videogame" style="
-  width=400px; height=400px; border-radius: 10px; border: 4px solid rgba(#e0cecc); float: right;"
+  width:400x; height=400x; border-radius: 10px; border: 4px solid rgba(#e0cecc); float: right;"
  src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8202e602-4070-484b-af88-a9637577f523/dfnnbzn-00ad5fbe-e985-461d-8c1f-4e496f74632e.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzgyMDJlNjAyLTQwNzAtNDg0Yi1hZjg4LWE5NjM3NTc3ZjUyM1wvZGZubmJ6bi0wMGFkNWZiZS1lOTg1LTQ2MWQtOGMxZi00ZTQ5NmY3NDYzMmUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.iz1cTZ1jbyOeQnaPcwALCopa4NkDCs9gJbBHbUNPmbM">
 
 
