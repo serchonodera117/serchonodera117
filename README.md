@@ -1,4 +1,4 @@
-[![MasterHead]([https://img.itch.zone/aW1nLzExMjY5MjY5LnBuZw==/original/Z2ynnw.png](https://thumbs.dreamstime.com/b/banner-de-lenguaje-programaci%C3%B3n-web-inform%C3%A1tico-html-y-css-sitio-tecnolog%C3%ADa-internet-concepto-fronend-medios-mixtos-220175988.jpg))](https://github.com/serchonodera117)
+[![MasterHead](https://thumbs.dreamstime.com/b/banner-de-lenguaje-programaci%C3%B3n-web-inform%C3%A1tico-html-y-css-sitio-tecnolog%C3%ADa-internet-concepto-fronend-medios-mixtos-220175988.jpg)](https://github.com/serchonodera117)
 <h1 align="center">Hi 👋, I'm Sergio Garcia Michel</h1>
 <h3 align="center">A passionate Software Engineer from México</h3>
 <img aling="right" alt="coding" width="400px" src="">
