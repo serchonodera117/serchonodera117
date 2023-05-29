@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **sergio.onodera117@gmail.com or sergio.lobo117@gmail.com**
 
-- ⚡ Fun fact **My hoby is any type of graphic art, like drawing (digital and traditional), design, ot even 3d modeling with blender**
+- ⚡ Fun fact **My hoby is any type of graphic art, like drawing (digital and traditional), design, or even 3d modeling with blender**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
