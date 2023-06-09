@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=serchonodera117&label=Profile%20views&color=0e75b6&style=flat" alt="serchonodera117" /> </p>
 
-- 🔭 I’m currently working on **Educ  project from Departamento de Educación a Distancia de la Universidad de Colima**
+- 🔭 I’m currently looking for a job
 
 - 🌱 I’m currently learning **c++, react, unreal engine with c++ and unity with c#**
 
