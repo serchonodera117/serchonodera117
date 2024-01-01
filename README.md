@@ -10,13 +10,13 @@
 
 - 🔭 I’m currently looking for a job
 
-- 🌱 I’m currently learning **c++, react, unreal engine with c++ and unity with c#**
+- 🌱 I’m currently learning **c++, react, unreal engine, and making some practices of Machine learning and AI development with python**
 
 - 👨‍💻 All of my projects are available at [https://serchonodera117.github.io/portafolio/](https://serchonodera117.github.io/portafolio/)
 
 - 📫 How to reach me **sergio.onodera117@gmail.com or sergio.lobo117@gmail.com**
 
-- ⚡ Fun fact **My hoby is any type of graphic art, like drawing (digital and traditional), design, or even 3d modeling with blender**
+- ⚡ Fun fact **My hobby is any type of graphic art, like drawing (digital and traditional), design, or even 3d modeling with blender**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
