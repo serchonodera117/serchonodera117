@@ -1,9 +1,8 @@
 [![MasterHead](https://thumbs.dreamstime.com/b/banner-de-lenguaje-programaci%C3%B3n-web-inform%C3%A1tico-html-y-css-sitio-tecnolog%C3%ADa-internet-concepto-fronend-medios-mixtos-220175988.jpg)](https://github.com/serchonodera117)
 <h1 align="center">Hi 👋, I'm Sergio Garcia Michel</h1>
 <h3 align="center">A passionate Software Engineer from México</h3>
-<img align="right" alt="Gisselle_protagonist of my videogame" style="width:300px; height=300px; fit-object:cover; border-radius: 10px; float: right; display: absolute;"
- src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8202e602-4070-484b-af88-a9637577f523/dfnnbzn-00ad5fbe-e985-461d-8c1f-4e496f74632e.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzgyMDJlNjAyLTQwNzAtNDg0Yi1hZjg4LWE5NjM3NTc3ZjUyM1wvZGZubmJ6bi0wMGFkNWZiZS1lOTg1LTQ2MWQtOGMxZi00ZTQ5NmY3NDYzMmUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.iz1cTZ1jbyOeQnaPcwALCopa4NkDCs9gJbBHbUNPmbM">
-
+<img align="right" alt="Gisselle_protagonist of my videogame" style="width:300px; height:300px; fit-object:cover; border-radius: 30px; float: right; display: absolute;"
+ src="https://github.com/serchonodera117/serchonodera117/assets/62153337/252152fc-8825-4520-9f5c-23bd6064c8af">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=serchonodera117&label=Profile%20views&color=0e75b6&style=flat" alt="serchonodera117" /> </p>
