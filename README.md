@@ -32,5 +32,5 @@
 
 
 ![serchonodera117's Stats](https://github-readme-stats.vercel.app/api?username=serchonodera117&theme=prussian&show_icons=true&hide_border=false&count_private=true)
-<img width="495" height="195" alt="image" src="https://github.com/user-attachments/assets/9f0c07c5-158e-4b74-9d09-e3d1ca4d2070" />
+![serchonodera117's Stats](https://github.com/user-attachments/assets/9f0c07c5-158e-4b74-9d09-e3d1ca4d2070)
 ![serchonodera117's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=serchonodera117&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
