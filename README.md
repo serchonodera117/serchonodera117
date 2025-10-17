@@ -13,7 +13,9 @@
 
 - 👨‍💻 All of my projects are available at [https://serchonodera.dev](https://serchonodera.dev)
 
-- 👨‍💻 Old portfolio [https://serchonodera117.github.io/portafolio/](https://serchonodera117.github.io/portafolio/)
+- 🖇️: Old portfolio [https://serchonodera117.github.io/portafolio/](https://serchonodera117.github.io/portafolio/)
+-  🎮:  [Games](https://serchonodera.dev/games/)
+- 📰: [projects](https://serchonodera.dev/projects/)
 
 - 📫 How to reach me **sergio.onodera117@gmail.com**
 
