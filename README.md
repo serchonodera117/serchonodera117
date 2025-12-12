@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently looking for a job
 
-- 🌱 I’m currently working in a 3D 
+- 🌱 Currently working in a 3D 
 
 - 👨‍💻 All of my projects are available at [https://serchonodera.dev](https://serchonodera.dev)
 
