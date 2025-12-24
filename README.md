@@ -10,6 +10,7 @@
 - 🔭 I’m currently looking for a job
 
 - 🌱 Currently working as a Game Developer
+- Unity and Godot developer
  
 - 👨‍💻 All of my projects are available at [https://serchonodera.dev](https://serchonodera.dev)
 
