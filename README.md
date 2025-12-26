@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=serchonodera117&label=Profile%20views&color=0e75b6&style=flat" alt="serchonodera117" /> </p>
 
-- 🔭 Currently looking for a job.
-
 - 🌱 Working as an Indie Game Developer.
 - Creating two games by using godot for a 2d project and Unity for a 3d project
  
