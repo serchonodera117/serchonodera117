@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=serchonodera117&label=Profile%20views&color=0e75b6&style=flat" alt="serchonodera117" /> </p>
 
-- 🔭 I’m currently looking for a job
+- 🔭 Currently looking for a job.
 
-- 🌱 Currently working as a Game Developer
+- 🌱 Working as a Game Developer
 - Unity and Godot developer
  
 - 👨‍💻 All of my projects are available at [https://serchonodera.dev](https://serchonodera.dev)
