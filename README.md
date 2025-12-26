@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.dreamstime.com/b/banner-de-lenguaje-programaci%C3%B3n-web-inform%C3%A1tico-html-y-css-sitio-tecnolog%C3%ADa-internet-concepto-fronend-medios-mixtos-220175988.jpg)](https://github.com/serchonodera117)
+[![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQFEwKMyyo-hWA/profile-displaybackgroundimage-shrink_350_1400/B56ZcXd0xyHwAg-/0/1748445385799?e=1768435200&v=beta&t=jY6afbmnlWN-DBQqziYpCw7npruQhFmU7FrZNjGepDg)](https://github.com/serchonodera117)
 <h1 align="center">Hi 👋, I'm Sergio Garcia Michel</h1>
 <h3 align="center">A passionate Software Engineer from México</h3>
 <img align="right" alt="Gisselle_protagonist of my videogame" style="width:300px; height:300px; fit-object:cover; border-radius: 30px; float: right; display: absolute;"
