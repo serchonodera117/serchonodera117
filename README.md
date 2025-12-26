@@ -9,8 +9,8 @@
 
 - 🔭 Currently looking for a job.
 
-- 🌱 Working as a Game Developer
-- Unity and Godot developer
+- 🌱 Working as an Indie Game Developer.
+- Creating two games by using godot for a 2d project and Unity for a 3d project
  
 - 👨‍💻 All of my projects are available at [https://serchonodera.dev](https://serchonodera.dev)
 
