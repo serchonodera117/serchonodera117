@@ -7,8 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=serchonodera117&label=Profile%20views&color=0e75b6&style=flat" alt="serchonodera117" /> </p>
 
-- 🌱 Working as an Indie Game Developer.
-- Creating two games by using godot for a 2d project and Unity for a 3d project
+- 🌱 Working as a Freelance and Indie Game Developer.
+- Creating two games by using Godot for a 2d project and Unity for a 3d project
  
 - 👨‍💻 All of my projects are available at [https://serchonodera.dev](https://serchonodera.dev)
 
