@@ -1,4 +1,5 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQFEwKMyyo-hWA/profile-displaybackgroundimage-shrink_350_1400/B56ZcXd0xyHwAg-/0/1748445385799?e=1768435200&v=beta&t=jY6afbmnlWN-DBQqziYpCw7npruQhFmU7FrZNjGepDg)](https://github.com/serchonodera117)
+[![MasterHead](![banner](https://github.com/user-attachments/assets/b8fa9176-bedd-4fb6-b4aa-07bfd448f4cf)
+)](https://github.com/serchonodera117)
 <h1 align="center">Hi 👋, I'm Serch Onodera</h1>
 <h3 align="center">A passionate Mexican Software Engineer</h3>
 <img align="right" alt="Gisselle_protagonist of my videogame" style="width:300px; height:300px; fit-object:cover; border-radius: 30px; float: right; display: absolute;"
