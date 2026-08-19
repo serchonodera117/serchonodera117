@@ -18,6 +18,9 @@
 - 📰: [projects](https://serchonodera.dev/projects/)
 
 - 📫 How to reach me **sergio.onodera117@gmail.com**  or **onoderaserch117@gamil.com**
+
+- ⚡ Fun fact **My hobby is any type of graphic art, like drawing (digital and traditional), design, or even 3d modeling with blender**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="display:flex">
   <a href="https://instagram.com/serchonodera" target="blank">
