@@ -155,7 +155,10 @@ alt="android" width="40" height="40"/>
  </a>
  </p>
 
-
+deprecated
 ![serchonodera117's Stats](https://github-readme-stats.vercel.app/api?username=serchonodera117&theme=prussian&show_icons=true&hide_border=false&count_private=true)
+
 ![serchonodera117's Stats](https://github.com/user-attachments/assets/9f0c07c5-158e-4b74-9d09-e3d1ca4d2070)
+
+deprecated
 ![serchonodera117's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=serchonodera117&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
